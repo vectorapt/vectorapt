@@ -13,21 +13,12 @@ Dedicated to building stronger, more secure Linux systems through hands-on admin
 - Networking basics
 
 ## 📂 Featured Projects
+• Linux Storage Administration — partitions, filesystems, swap, persistence  
 
-### 📁 Linux Storage Administration  
-- Disk partitioning, filesystems, swap configuration  
-- Persistent mounts using `/etc/fstab`  
-- Reboot validation  
+• LVM Administration — PV/VG/LV creation, extension, snapshots  
 
-### 📁 LVM Administration  
-- Physical volumes, volume groups, logical volumes  
-- Extending storage and filesystem growth  
-- Snapshots and management  
+• Firewall & Troubleshooting Lab — firewalld rules, logs, basic automation  
 
-### 📁 Firewall & Troubleshooting Lab  
-- firewalld configuration  
-- Service and log troubleshooting  
-- Basic automation scripts  
 
 ## 🎯 Current Focus
 
