@@ -2,8 +2,6 @@
 
 Dedicated to building stronger, more secure Linux systems through hands-on administration, troubleshooting, and continuous learning.
 
----
-
 ## 🔧 Skills & Technologies
 
 - Linux System Administration (RHCSA-level)
@@ -13,8 +11,6 @@ Dedicated to building stronger, more secure Linux systems through hands-on admin
 - Bash scripting (basic automation)
 - AWS (EC2, IAM fundamentals)
 - Networking basics
-
----
 
 ## 📂 Featured Projects
 
@@ -33,20 +29,16 @@ Dedicated to building stronger, more secure Linux systems through hands-on admin
 - Service and log troubleshooting  
 - Basic automation scripts  
 
----
-
 ## 🎯 Current Focus
 
 - RHCSA Certification  
 - Strengthening Linux system administration skills  
 - Actively seeking entry-level Linux Engineer / SysAdmin roles  
 
----
-
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/roshan-pillay-089102223/
-- Emaild: roshanrpillay@gmail.com
+- Email: roshanrpillay@gmail.com
  
 
 
