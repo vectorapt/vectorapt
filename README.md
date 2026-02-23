@@ -10,7 +10,7 @@ Dedicated to building stronger, more secure Linux systems through hands-on admin
 - firewalld & system troubleshooting
 - Bash scripting (basic automation)
 - AWS (EC2, IAM fundamentals)
-- Networking basics
+- Networking fundamentals
 
 ## 📂 Featured Projects
 • Linux Storage Administration — partitions, filesystems, swap, persistence  
