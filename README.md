@@ -17,7 +17,7 @@ Dedicated to building stronger, more secure Linux systems through hands-on admin
 
 • LVM Administration — PV/VG/LV creation, extension, snapshots  
 
-• Firewall & Troubleshooting Lab — firewalld rules, logs, basic automation  
+• Firewall & Troubleshooting Lab — firewalld rules, troubleshooting, basic automation  
 
 
 ## 🎯 Current Focus
