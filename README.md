@@ -1,4 +1,4 @@
-# 🧙‍♂️ Hey, this is Roshan!
+# 🧙‍♂️ Hey, Im Roshan!
 
 Dedicated to building stronger, more secure Linux systems through hands-on administration, troubleshooting, and continuous learning.
 
