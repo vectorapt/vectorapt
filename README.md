@@ -1,37 +1,46 @@
-# 🧙‍♂️ Hey, Im Roshan!
+# 🧙‍♂️ Hey, I’m Roshan!
 
-Dedicated to building stronger, more secure Linux systems through hands-on administration, troubleshooting, and continuous learning.
+**RHCSA Certified Linux System Administrator** focused on building, securing, and troubleshooting real-world Linux systems.  
+Hands-on experience across storage, networking, and system-level operations, with foundational exposure to AWS.
+
+---
 
 ## 🔧 Skills & Technologies
 
-- Linux System Administration (RHCSA-level)
-- Disk Management, Filesystems, Swap
+- Linux System Administration (**RHCSA Certified**)
+- Storage Management — Partitions, Filesystems, Swap
 - Logical Volume Management (LVM)
-- firewalld & system troubleshooting
-- Bash scripting (basic automation)
-- AWS (EC2, IAM fundamentals)
-- Networking fundamentals
+- Firewall Configuration & Troubleshooting (firewalld)
+- Systemd, logs & system diagnostics
+- Bash scripting (automation & validation)
+- Networking fundamentals (TCP/IP, DNS, SSH)
+- AWS fundamentals (EC2, IAM)
+
+---
 
 ## 📂 Featured Projects
-• Linux Storage Administration — partitions, filesystems, swap, persistence  
 
-• LVM Administration — PV/VG/LV creation, extension, snapshots  
+- **Linux Storage & LVM Administration**  
+  End-to-end disk setup with partitioning, LVM configuration, logical volume extension, and filesystem management  
 
-• Firewall & Troubleshooting Lab — firewalld rules, troubleshooting, basic automation  
+- **Linux Firewall Configuration & Security Hardening**  
+  Implemented least-privilege firewall rules, service access control, and troubleshooting scenarios with validation scripting  
 
+---
 
 ## 🎯 Current Focus
 
-- RHCSA Certification  
-- Strengthening Linux system administration skills  
-- Actively seeking entry-level Linux Engineer / SysAdmin roles  
+- Strengthening Linux system administration and troubleshooting skills  
+- Deepening understanding of system internals and performance  
+- Actively seeking entry-level Linux / SysAdmin roles  
+
+---
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/roshan-pillay-089102223/
-- Email: roshanrpillay@gmail.com
- 
+- LinkedIn: https://www.linkedin.com/in/roshan-pillay-089102223/  
+- Email: roshanrpillay@gmail.com  
 
+---
 
-## 🖥️ Passionate about Linux. Focused on systems. Always learning.
-
+## 🖥️ Systems first. Built through practice. Focused on reliability.
